@@ -10,6 +10,7 @@ public class forma_uno {
     private JPasswordField ingreso_password;
     private JLabel texto_usuario;
     private JButton INICIARSESIONButton;
+    private JLabel error_texto;
 
 
     public forma_uno() {
@@ -23,11 +24,18 @@ public class forma_uno {
                 String password_ingresado=ingreso_password.getText();
 
                 if (usuario.equals(usuario_ingresado)&& password_ingresado.equals(password_ingresado)){
-                    System.out.println("Hola");
+                    JFrame ventana_uno = new JFrame();
+                    ventana_uno.setContentPane(new ventana_uno().panel_ventana);
+                    ventana_uno.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                    ventana_uno.setVisible(true);
+                    ventana_uno.setSize(300,300);
+                    Main.frame.dispose();
 
                 }else{
-                    System.out.println("Error");
+                    error_texto.setText("Usuario o contaseña erronesos");
+
                 }
+
 
             }
         });

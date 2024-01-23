@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee59f9fa-1af2-45fe-b72c-b9425f3881f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ventana_uno.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ventana_uno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/forma_uno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/forma_uno.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +28,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/forma_uno.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ventana_uno.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -39,6 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "false",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "502",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
@@ -59,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706013511593</updated>
       <workItem from="1706013512606" duration="2229000" />
+      <workItem from="1706019136607" duration="1420000" />
     </task>
     <servers />
   </component>

@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee59f9fa-1af2-45fe-b72c-b9425f3881f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ventana_uno.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ventana_uno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="ee59f9fa-1af2-45fe-b72c-b9425f3881f8" name="Changes" comment="interfaz 4">
       <change beforePath="$PROJECT_DIR$/src/forma_uno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/forma_uno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ventana_uno.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ventana_uno.form" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JoseBernal06"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a3edab51-bee2-4216-8bef-027a84091b68" />
+        <option name="url" value="https://github.com/JoseBernal06/login_trabajo_clase.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
@@ -44,8 +56,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "false",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "502",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "337",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -65,11 +77,33 @@
       <option name="presentableId" value="Default" />
       <updated>1706013511593</updated>
       <workItem from="1706013512606" duration="2229000" />
-      <workItem from="1706019136607" duration="1420000" />
+      <workItem from="1706019136607" duration="1980000" />
     </task>
+    <task id="LOCAL-00001" summary="interfaz 4">
+      <option name="closed" value="true" />
+      <created>1706020765353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706020765353</updated>
+    </task>
+    <task id="LOCAL-00002" summary="interfaz 4">
+      <option name="closed" value="true" />
+      <created>1706020797177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706020797177</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="interfaz 3" />
+    <MESSAGE value="interfaz 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaz 4" />
   </component>
 </project>

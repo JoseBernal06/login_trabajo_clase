@@ -23,12 +23,12 @@ public class forma_uno {
                 String usuario_ingresado=ingreso_correo.getText();
                 String password_ingresado=ingreso_password.getText();
 
-                if (usuario.equals(usuario_ingresado)&& password_ingresado.equals(password_ingresado)){
+                if (usuario_ingresado.equals(usuario) && password_ingresado.equals(clave)){
                     JFrame ventana_uno = new JFrame();
                     ventana_uno.setContentPane(new ventana_uno().panel_ventana);
                     ventana_uno.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                     ventana_uno.setVisible(true);
-                    ventana_uno.setSize(300,300);
+                    ventana_uno.setSize(600,400);
                     Main.frame.dispose();
 
                 }else{
